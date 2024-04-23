@@ -45,8 +45,10 @@
 <p align="left">
 <div>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
 	<img height="50" src="./images/laravel-plain-wordmark.svg" alt="laravel" title="Laravel" />
-	<img height="50" src="./images/spring-3.svg" alt="Spring" title="Spring" />
+	<img height="50" src="./images/mern.png" alt="Spring" title="MERN" />
+<!-- 	<img height="50" src="./images/spring-3.svg" alt="Spring" title="Spring" /> -->
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" title="MySQL" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" title="Firebase" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" title="Postgresql" />
