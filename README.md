@@ -1,39 +1,35 @@
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhskr44&color=3f37c9">
+  <img src="https://komarev.com/ghpvc/?username=pushpa32&color=3f37c9">
 
 	
-[![wakatime](https://wakatime.com/badge/user/3fec9939-846d-481f-8d92-4c8ad422ac77.svg)](https://wakatime.com/@3fec9939-846d-481f-8d92-4c8ad422ac77)
-
-
-<!-- <img src="https://badges.pufler.dev/visits/bhskr44/bhskr44?color=3f37c9"> -->
+[![wakatime](https://wakatime.com/badge/user/018c6bfd-6215-4f15-ac89-d454882ca333.svg)](https://wakatime.com/@018c6bfd-6215-4f15-ac89-d454882ca333)
 
 
 </div>
 
 
-<h1 align="center"> Hi there👋, I'm Bhaskar</h1>
+<h1 align="center"> Hi there👋, I'm Pushpa</h1>
 <h3 align="center">A computer scientist and a software developer from India</h3>
 
 <p align="center">I am a Full-Stack Developer. I have a great passion for bulding softwares, learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
 
 <img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
 	
-- 🎓 I have a **Bachelor's degree** in Computer Science and Engineering. Obtained from the Deemed to be University NERIST, India.
+- 🎓 I have a **Bachelor's degree** in Computer Applicaiton. Obtained from Guwahati University, India.
 
 - 👩‍💻 I’m currently a freelancher working remotely with the collaboration of various others from diffrent country and thereby creating a multicultural environment.
 
 - 🌱 I’m currently working on a project where you would be able to find and post properties for rent.
 
-- 💻 All **my projects** are available [here.](https://github.com/bhskr44?tab=repositories)
+- 💻 All **my projects** are available [here.](https://github.com/pushpa32?tab=repositories)
 
-### 🚀 Check out [my portfolio.](https://bhskr44.github.io/)
 
 ### 📫 Reach me on:
 
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://twitter.com/bhskr44" target="_blank"><img align="center" src="./images/twitter.png" alt="twitter" width="35" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/bhskr44/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/pushpa32/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
 </p>
 
 - ✨ Interests: coding, learning new frameworks, cooking.
@@ -42,7 +38,7 @@
 
 - ⚡ Fun facts:
   - **The first computer “bug” was an actual real-life bug.**
-  - **There are around 700 separate programming languages. Among all of them, the most popular languages are Javascript, Swift, Scala, Python, PHP, Go, Rust, Ruby, and C#, with millions of users utilizing them in both their careers and personal projects.**
+  - **There are around 700 separate programming languages. Among all of them, the most popular languages are Javascript, Scala, Python, PHP, Go, Rust, Ruby, and C#, with millions of users utilizing them in both their careers and personal projects.**
 
 <h2 align="left">Skills</h2>
 <p align="left">
@@ -64,9 +60,9 @@
 
 <h2 align ="left">GitHub Stats</h2>
 <div>
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhskr44&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhskr44&show_icons=true&theme=nightowl&layout=compact"/>
-<img height="180" width="420"src="https://github-readme-streak-stats.herokuapp.com/?user=bhskr44&show_icons=true&theme=nightowl&layout=compact" alt="sekoviper" />
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pushpa32&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpa32&show_icons=true&theme=nightowl&layout=compact"/>
+<img height="180" width="420"src="https://github-readme-streak-stats.herokuapp.com/?user=pushpa32&show_icons=true&theme=nightowl&layout=compact" alt="sekoviper" />
 
 </div>
 
@@ -76,4 +72,4 @@
 
 
 
-[![bhaskar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhskr44&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![pushpa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pushpa32&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
