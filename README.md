@@ -10,7 +10,7 @@
 
 
 <h1 align="center"> Hi there👋, I'm Pushpa</h1>
-<h3 align="center">A computer scientist and a software developer from India</h3>
+<h3 align="center">A software developer from India</h3>
 
 <p align="center">I am a Full-Stack Developer. I have a great passion for bulding softwares, learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
 
@@ -19,7 +19,7 @@
 - 🎓 I have a **Master's degree** in Computer Applicaiton (MCA). Obtained from Cotton University, India.
 - 🎓 I have a **Bachelor's degree** in Computer Applicaiton. Obtained from Guwahati University, India.
 
-- 👩‍💻 I’m currently a freelancher working remotely with the collaboration of various others from diffrent country and thereby creating a multicultural environment.
+- 👩‍💻 I’m currently working at NIC(National Informatics Centre) as a Software Developer.
 
 - 🌱 I’m currently working on a project where you would be able to find and post properties for rent.
 
@@ -46,14 +46,14 @@
 <div>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
 	<img height="50" src="./images/laravel-plain-wordmark.svg" alt="laravel" title="Laravel" />
-	<img height="50" src="./images/spring-3.svg" alt="Spring" title="Spring" />
+	<img height="50" src="./images/mern.png" alt="Spring" title="MERN" />
+<!-- 	<img height="50" src="./images/spring-3.svg" alt="Spring" title="Spring" /> -->
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" title="MySQL" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" title="Firebase" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" title="Postgresql" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png" alt="Postman" title="Postman" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
-<img height="40" src="./images/aws-icon.svg" style="background:white;padding:10px;border-radius:10px;" alt="AWS" title="AWS" />
 
 </div>
 
