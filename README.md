@@ -10,7 +10,7 @@
 
 
 <h1 align="center"> Hi there👋, I'm Pushpa</h1>
-<h3 align="center">A computer scientist and a software developer from India</h3>
+<h3 align="center">A software developer from India</h3>
 
 <p align="center">I am a Full-Stack Developer. I have a great passion for bulding softwares, learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
 
