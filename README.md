@@ -19,7 +19,7 @@
 - 🎓 I have a **Master's degree** in Computer Applicaiton (MCA). Obtained from Cotton University, India.
 - 🎓 I have a **Bachelor's degree** in Computer Applicaiton. Obtained from Guwahati University, India.
 
-- 👩‍💻 I’m currently a freelancher working remotely with the collaboration of various others from diffrent country and thereby creating a multicultural environment.
+- 👩‍💻 I’m currently working at NIC(National Informatics Centre) as a Software Developer.
 
 - 🌱 I’m currently working on a project where you would be able to find and post properties for rent.
 
