@@ -10,18 +10,21 @@
 
 
 <h1 align="center"> Hi there👋, I'm Pushpa</h1>
-<h3 align="center">A software developer from India</h3>
+<h3 align="center">A Full-Stack Software Engineer from India 📍 Bangalore</h3>
 
-<p align="center">I am a Full-Stack Developer. I have a great passion for bulding softwares, learning languages, frameworks and new technologies. In addition to that, I enjoy designing websites and bringing them to life with CSS.</p>
+<p align="center">I've spent 4+ years building things for the web and mobile, from national-level government systems to learning platforms. I love building software, picking up new languages and frameworks, and bringing designs to life with CSS.</p>
 
 <img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
 
-- 🎓 I have a **Master's degree** in Computer Applicaiton (MCA). Obtained from Cotton University, India.
-- 🎓 I have a **Bachelor's degree** in Computer Applicaiton. Obtained from Guwahati University, India.
+- 👩‍💻 Currently a **Software Engineer at Nuvepro Technologies**, building Moodle plugins and AWS Marketplace integrations.
 
-- 👩‍💻 I’m currently working at NIC(National Informatics Centre) as a Software Developer.
+- 🏛️ Previously at **NIC (National Informatics Centre)**, where I worked on NGDRS, a land & deed registration system used across Assam, and a Flutter geo-location capture app with offline sync.
 
-- 🌱 I’m currently working on a project where you would be able to find and post properties for rent.
+- 📚 Side project: **Gyansrota**, an online/offline learning platform built with Flutter, Node, React and MySQL.
+
+- 🏆 Employee of the Month (April 2025) and a Spot Award (2026).
+
+- 🎓 **MCA** from Cotton University and **BCA** from Guwahati University, India.
 
 - 💻 All **my projects** are available [here.](https://github.com/pushpa32?tab=repositories)
 
@@ -31,9 +34,12 @@
 <p align="left">
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/pushpa32/" target="_blank"><img align="center" src="./images/linkedin.png" alt="linkedin" width="35" /></a> &nbsp;
+<a href="mailto:pushpachhetri5@gmail.com"><img align="center" src="./images/email.png" alt="email" width="35" /></a> &nbsp;
 </p>
 
-- ✨ Interests: coding, learning new frameworks, cooking.
+- ✨ Interests: building personal projects, reading tech blogs, learning new frameworks, cooking.
+
+- 🗣️ Languages: English, Hindi, Nepali, Assamese.
 
 - 👦 Pronouns: he/him
 
@@ -48,7 +54,12 @@
 	<img height="50" src="./images/laravel-plain-wordmark.svg" alt="laravel" title="Laravel" />
 	<img height="50" src="./images/mern.png" alt="MERN" title="MERN" />
 	<img height="50" src="./images/flutter.png" alt="Flutter" title="Flutter" />
+	<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" />
+	<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" alt="CakePHP" title="CakePHP" />
+	<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" title="CodeIgniter" />
+	<img height="50" src="./images/aws-icon.svg" alt="AWS" title="AWS" />
 <!-- 	<img height="50" src="./images/spring-3.svg" alt="Spring" title="Spring" /> -->
+	<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" title="MySQL" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" title="Firebase" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="Postgresql" title="Postgresql" />
